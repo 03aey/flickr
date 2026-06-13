@@ -65,7 +65,7 @@ const Contact = () => {
 							placeholder="Leave a comment..."
 						></textarea>
 					</div>
-					<Link href="mailto:alok421yadav@gmail.com" target="_blank">
+					<Link href="mailto:yalok6321@gmail.com" target="_blank">
 						<Button type="submit" variant="outline">
 							Send message
 						</Button>

@@ -11,20 +11,20 @@ Flickr is an anonymous feedback application built with Next.js. This app allows 
 
 ## Features
 
--   **Anonymous Messaging:** Receive messages anonymously through a shareable profile link.
--   **Dashboard Management:** Accept or decline messages from your dashboard.
--   **Secure Authentication:** Managed via `next-auth`.
--   **Responsive Design:** Built with Tailwind CSS and styled using `shadcn` and `Aceternity UI` for a sleek and modern UI.
--   **AI Integration:** Uses OpenAI for enhanced features and insights.
+- **Anonymous Messaging:** Receive messages anonymously through a shareable profile link.
+- **Dashboard Management:** Accept or decline messages from your dashboard.
+- **Secure Authentication:** Managed via `next-auth`.
+- **Responsive Design:** Built with Tailwind CSS and styled using `shadcn` and `Aceternity UI` for a sleek and modern UI.
+- **AI Integration:** Uses OpenAI for enhanced features and insights.
 
 ## Tech Stack
 
--   **Framework:** [Next.js](https://nextjs.org/)
--   **UI Components:** [shadcn](https://ui.shadcn.com/), [Aceternity UI](https://ui.aceternity.com/), [Tailwind CSS](https://tailwindcss.com/)
--   **Forms & Validation:** [React Hook Form](https://react-hook-form.com/), [Zod](https://github.com/colinhacks/zod)
--   **Authentication:** [NextAuth.js](https://next-auth.js.org/)
--   **AI Integration:** [OpenAI](https://openai.com/)
--   **Database:** [MongoDB](https://www.mongodb.com/)
+- **Framework:** [Next.js](https://nextjs.org/)
+- **UI Components:** [shadcn](https://ui.shadcn.com/), [Aceternity UI](https://ui.aceternity.com/), [Tailwind CSS](https://tailwindcss.com/)
+- **Forms & Validation:** [React Hook Form](https://react-hook-form.com/), [Zod](https://github.com/colinhacks/zod)
+- **Authentication:** [NextAuth.js](https://next-auth.js.org/)
+- **AI Integration:** [OpenAI](https://openai.com/)
+- **Database:** [MongoDB](https://www.mongodb.com/)
 
 ## Installation
 
@@ -33,7 +33,7 @@ To get started with Flickr, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/alok-x0s1/flickr.git
+    git clone https://github.com/03aey/flickr.git
     ```
 
 2. **Navigate to the project directory:**
@@ -68,7 +68,7 @@ To get started with Flickr, follow these steps:
     npm run dev
     ```
 
-    Open [http://localhost:3000](http://localhost:3000) with your browser to see the app in action.
+    Open [localhost:3000](http://localhost:3000) with your browser to see the app in action.
 
 ## Usage
 
@@ -104,17 +104,9 @@ The dashboard page is the page where you can see all the messages you have recei
 
 ![Dashboard Page](public/dashboard.png)
 
+---
 
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Acknowledgements
-
--   [Next.js](https://nextjs.org/)
--   [Tailwind CSS](https://tailwindcss.com/)
--   [shadcn](https://ui.shadcn.com/)
--   [Aceternity UI](https://ui.aceternity.com/)
--   [NextAuth.js](https://next-auth.js.org/)
--   [OpenAI](https://openai.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-03aey-181717?logo=github&logoColor=white)](https://github.com/03aey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2F03aey-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/03aey)
+[![Portfolio](https://img.shields.io/badge/Portfolio-03aey.vercel.app-000000?logo=vercel&logoColor=white)](https://03aey.vercel.app)
+[![Linktree](https://img.shields.io/badge/Linktree-03aey-43E55E?logo=linktree&logoColor=white)](https://linktr.ee/03aey)

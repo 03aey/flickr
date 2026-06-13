@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import { signOut, useSession } from "next-auth/react";
-import { FloatingNav } from "./floating-nav";
 import { User } from "next-auth";
 import Link from "next/link";
 import {
@@ -71,7 +70,7 @@ const Navbar = () => {
 					)}
 
 					<Link
-						href="https://github.com/alok-x0s1/Flickr"
+						href="https://github.com/03aey/Flickr"
 						className="hover:scale-110 duration-300 hover:text-blue-500"
 					>
 						<Github />

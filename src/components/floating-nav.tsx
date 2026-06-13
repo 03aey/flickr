@@ -59,7 +59,7 @@ export function FloatingNav({ navbarItems }: FloatingNavProps) {
 			icon: (
 				<IconBrandGithub className="h-full w-full text-neutral-500 dark:text-neutral-300" />
 			),
-			href: "https://github.com/alok-x0s1",
+			href: "https://github.com/03aey",
 		},
 	];
 

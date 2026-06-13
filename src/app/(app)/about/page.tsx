@@ -22,8 +22,8 @@ const About = () => {
 			</div>
 			<OurMission />
 			<PinContainer
-				title="@Github/alok-x0s1"
-				href="https://github.com/alok-x0s1"
+				title="@Github/03aey"
+				href="https://github.com/03aey"
 			>
 				<div className="flex basis-full flex-col p-4 tracking-tight sm:basis-1/2 w-[20rem] h-[20rem] ">
 					<h3
