@@ -1,4 +1,5 @@
 import { Separator } from "./ui/separator";
+import Link from "next/link";
 
 function Footer() {
 	return (
@@ -23,36 +24,36 @@ function Footer() {
 					<h2 className="text-lg font-semibold mb-4">Quick Links</h2>
 					<ul>
 						<li className="mb-2">
-							<a
-								href="#"
+							<Link
+								href="/"
 								className="hover:underline transition-all duration-300"
 							>
 								Home
-							</a>
+							</Link>
 						</li>
 						<li className="mb-2">
-							<a
-								href="#"
+							<Link
+								href="/about"
 								className="hover:underline transition-all duration-300"
 							>
 								Explore
-							</a>
+							</Link>
 						</li>
 						<li className="mb-2">
-							<a
-								href="#"
+							<Link
+								href=""
 								className="hover:underline transition-all duration-300"
 							>
 								Communities
-							</a>
+							</Link>
 						</li>
 						<li className="mb-2">
-							<a
-								href="#"
+							<Link
+								href="/contact"
 								className="hover:underline transition-all duration-300"
 							>
 								Contact
-							</a>
+							</Link>
 						</li>
 					</ul>
 				</div>
@@ -94,7 +95,7 @@ function Footer() {
 				</div>
 			</div>
 			<p className="text-center text-sm pt-6 text-gray-500">
-				© 2024 Flickr. All rights reserved.
+				© {new Date().getFullYear()} Flickr. All rights reserved.
 			</p>
 		</footer>
 	);
